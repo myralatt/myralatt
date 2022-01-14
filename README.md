@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @myralatt
+- 👀 I’m interested in the future of Model Based Systems Engineering!
+- 🌱 I’m currently learning about what is new with SysML v2
